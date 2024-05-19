@@ -31,7 +31,7 @@ Column names and description:
 
 The Indian Startup Ecosystem: Insights for Prospective Investors
 
-# HYPOTHESIS STATEMENT
+# HYPOTHESIS STATEMENTS
 
 ## Null Hypothesis (H0)
 Funding amounts are evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2022, and technology-driven startups do not receive higher average funding compared to other sectors.
@@ -42,25 +42,25 @@ Funding amounts are not evenly distributed across all sectors in the Indian star
 # QUESTIONS
 1. Which sectors (Top 5) are receiving the most investment in the Indian startup ecosystem?
 
-   Investigate which sectors stand out in terms of average funding received to identify potential investment hotspots.
+   We shall investigate which sectors stand out in terms of average funding received to identify potential investment hotspots.
 
 2. How do funding amounts vary across different startup sectors, yearly?
 
-   Analyze year-over-year trends to determine if funding increased, decreased, or remained stable, providing insight into overall investment climate changes.
+   We will analyze year-over-year trends to determine if funding increased, decreased, or remained stable, providing insight into overall investment climate changes.
 
 3. At what stage do businesses raise the most money across sectors?
 
-   Examine funding distribution across different stages (e.g., seed, early, growth) to understand where investors are most likely to commit significant capital.
+   We shall examine funding distribution across different stages (e.g., seed, early, growth) to understand where investors are most likely to commit significant capital.
 
 4. Which are the top 10 locations that received funding?
 
-   Analyze funding distribution across various cities to determine if certain locations are emerging as major startup hubs.
+   We will analyze funding distribution across various cities to determine if certain locations are emerging as major startup hubs.
 
-5. Are there specific cities that have become hubs for certain industries or types of startups?
+5. Are there specific cities(headquarters) that have become hubs for certain industries or types of startups?
 
-   Identify which cities are becoming specialized hubs for particular sectors or types of startups.
+   We will identify which cities(headquarters) are becoming specialized hubs for particular sectors or types of startups.
 
 6. Who are the top 3 investors in the top 5 sectors?
 
-   Identify key investors and their sector preferences to gauge influential players and sector-specific investment trends.
+   We will identify key investors and their sector preferences to gauge influential players and sector-specific investment trends.
 
