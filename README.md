@@ -34,10 +34,10 @@ The Indian Startup Ecosystem: Insights for Prospective Investors
 # HYPOTHESIS STATEMENTS
 
 ## Null Hypothesis (H0)
-Funding amounts are evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2022, and technology-driven startups do not receive higher average funding compared to other sectors.
+Funding amounts are evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2021, and technology-driven startups do not receive higher average funding compared to other sectors.
 
 ## Alternative Hypothesis (H1)
-Funding amounts are not evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2022, and technology-driven startups receive higher average funding compared to other sectors.
+Funding amounts are not evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2021, and technology-driven startups receive higher average funding compared to other sectors.
 
 # QUESTIONS
 1. Which sectors (Top 5) are receiving the most investment in the Indian startup ecosystem?
