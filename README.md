@@ -1,4 +1,4 @@
-# TEAM-FIJI_LPI
+# TEAM-FIJI_LP1
 The LPI Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
 
 # CRISP-DM (Cross-Industry Standard Process for Data Mining)
