@@ -1,13 +1,20 @@
 # CRISP-DM (Cross-Industry Standard Process for Data Mining)
 
 The CRISP-DM framework is a widely adopted methodology for data mining projects, providing a structured approach to planning and executing data analysis tasks. It comprises six major phases, each with its own set of tasks and deliverables, ensuring a comprehensive and iterative process.
-It also includes 6 phases;
-1. Business Understanding
-2. Data Understanding: Explain
-3. Data Preparation 
-4. Modelling
-5. Evaluation
-6. Deployment.
+
+The six(6) phases are;
+ 1. Business Understanding which focuses on understanding the objectives and requirements of the project.
+
+ 2. Data understanding  which drives the focus to identify, collect, and analyze the data sets that can help you accomplish the project goals.
+
+ 3. Data preparation which prepares the final datasets for modeling.
+
+ 4. Modeling to build and assess various models based on several differnt modeling techniques.
+
+ 5. Evaluation - To evaluate results and review process and determine the next steps.
+
+ 6. Deployment - To deploy the results can be as simple as generating a report or any requirement given.
+
 
 # Business Understanding
 
@@ -68,7 +75,7 @@ Tasks;
 
 # 5. Evaluation
 
-Key Questions:
+## Key Questions:
 
     1. Which sectors (Top 5) are receiving the most investment in the Indian startup ecosystem?
       We shall investigate which sectors stand out in terms of average funding received to identify potential investment hotspots.
@@ -89,7 +96,7 @@ Key Questions:
     6. Who are the top 3 investors in the top 5 sectors?
        We will identify key investors and their sector preferences to gauge influential players and sector-specific investment trends.
 
-Evaluation Metrics:
+## Evaluation Metrics:
 
     1. Descriptive Statistics: Summary statistics for funding amounts across sectors, stages, and years.
     2. Visualization: Charts and graphs to illustrate key trends and patterns.
@@ -98,14 +105,14 @@ Evaluation Metrics:
 
 # 6. Deployment
 
-Sharing Insights:
+## Sharing Insights:
     1. Publish Link to Github repository.
 
     2. Share the analysis on platforms like Medium, LinkedIn, Dev.to, or a personal blog.
 
     3. Use Power BI to deploy visualizations to make the insights accessible and understandable for a broad audience.
 
-Actionable Recommendations:
+## Actionable Recommendations:
 
     1. Identify high-potential sectors for investment.
 
