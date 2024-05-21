@@ -5,7 +5,7 @@
 
 #Objective
 
-The LPI Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
+The LP1 Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
 =======
 # TEAM-FIJI_LP1
 The LP1 Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
