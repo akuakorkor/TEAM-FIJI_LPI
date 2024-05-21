@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TEAM-FIJI_LPI
 
 #Table of Contents
@@ -5,6 +6,10 @@
 #Objective
 
 The LPI Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
+=======
+# TEAM-FIJI_LP1
+The LP1 Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
+>>>>>>> 60a435b81e6bddb1bed4cd2d08c52231a8650cdb
 
 # CRISP-DM (Cross-Industry Standard Process for Data Mining)
 
@@ -44,10 +49,10 @@ The Indian Startup Ecosystem: Insights for Prospective Investors
 # HYPOTHESIS STATEMENTS
 
 ## Null Hypothesis (H0)
-Funding amounts are evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2022, and technology-driven startups do not receive higher average funding compared to other sectors.
+Funding amounts are evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2021, and technology-driven startups do not receive higher average funding compared to other sectors.
 
 ## Alternative Hypothesis (H1)
-Funding amounts are not evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2022, and technology-driven startups receive higher average funding compared to other sectors.
+Funding amounts are not evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2021, and technology-driven startups receive higher average funding compared to other sectors.
 
 # QUESTIONS
 1. Which sectors (Top 5) are receiving the most investment in the Indian startup ecosystem?
