@@ -1,4 +1,9 @@
 # TEAM-FIJI_LPI
+
+#Table of Contents
+
+#Objective
+
 The LPI Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
 
 # CRISP-DM (Cross-Industry Standard Process for Data Mining)
@@ -6,15 +11,20 @@ The LPI Project contains Data Analysis using CRISP-DM with visualization publish
 The CRISP-DM framework is a widely adopted methodology for data mining projects, providing a structured approach to planning and executing data analysis tasks. It comprises six major phases, each with its own set of tasks and deliverables, ensuring a comprehensive and iterative process.
 It also includes 6 phases;
 1. Business Understanding
-2. Data Understanding
-3. Data Preparation
+2. Data Understanding: Explain
+3. Data Preparation 
 4. Modelling
 5. Evaluation
 6. Deployment.
 
+# Business Understanding
+
 # PROJECT SCENARIO/ DESCRIPTION
 
-Your team is trying to venture into the Indian start-up ecosystem. As the data expert of the team, you are  to investigate the ecosystem and propose the best course of action using Three (3) Datasets from SQL SERVER, One Drive and Git repository. The datasets contains the start-ups' details, the funding amounts received, and the investors' information.
+Your team is trying to venture into the Indian start-up ecosystem. As the data expert of the team, you are  to investigate the ecosystem and propose the best course of action using Three (3) Datasets from SQL SERVER, One Drive and Git repository. 
+
+# Data Understanding
+The datasets contains the start-ups' details, the funding amounts received, and the investors' information.
 
 Column names and description:
 
