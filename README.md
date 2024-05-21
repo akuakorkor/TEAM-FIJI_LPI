@@ -21,16 +21,18 @@ Analyze funding patterns in the Indian startup ecosystem from 2018 to 2021 to de
 
 # 2. Data Understanding
 
-Data Source: The datasets consists of separate CSV files for each year (2018-2021) detailing startup funding in India. The columns include:
+Data Source: The datasets consists of separate CSV files for each year (2018-2021) detailing startup funding in India. 
 
-Company/Brand: Name of the company/start-up
-Founded: Year start-up was founded
-Sector: Sector of service
-What it does: Description of the company
-Founders: Founders of the company
-Investor: Investors
-Amount($): Raised fund
-Stage: Round of funding reached
+The columns include:
+
+1. Company/Brand: Name of the company/start-up
+2. Founded: Year start-up was founded
+3. Sector: Sector of service
+4. What it does: Description of the company
+5. Founders: Founders of the company
+6. Investor: Investors
+7. Amount($): Raised fund
+8. Stage: Round of funding reached
 
 
 # 3. Data Preparation
