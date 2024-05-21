@@ -1,4 +1,6 @@
-# CRISP-DM (Cross-Industry Standard Process for Data Mining)
+# LP1 PROJECT_INDIAN STARTUP VENTURE -- TEAM FIJI
+
+##  CRISP-DM (Cross-Industry Standard Process for Data Mining) Methodology Application 
 
 The CRISP-DM framework is a widely adopted methodology for data mining projects, providing a structured approach to planning and executing data analysis tasks. It comprises six major phases, each with its own set of tasks and deliverables, ensuring a comprehensive and iterative process.
 
@@ -16,7 +18,12 @@ The six(6) phases are;
  6. Deployment - To deploy the results can be as simple as generating a report or any requirement given.
 
 
-# Business Understanding
+# 1. Business Understanding
+
+## Project Title
+
+Indian Startup Ecosystem: "Insights for Prospective Investors"
+
 
 ## Objective
 
