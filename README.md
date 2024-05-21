@@ -97,7 +97,7 @@ Evaluation Metrics:
 # 6. Deployment
 
 Sharing Insights:
-    1. Publish Link to Github repositoryfor the project.
+    1. Publish Link to Github repository.
 
     2. Share the analysis on platforms like Medium, LinkedIn, Dev.to, or a personal blog.
 
