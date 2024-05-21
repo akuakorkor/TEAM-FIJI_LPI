@@ -97,12 +97,11 @@ Evaluation Metrics:
 # 6. Deployment
 
 Sharing Insights:
-
-    1. Compile findings into a comprehensive blog post.
+    1. Publish Link to Github repositoryfor the project.
 
     2. Share the analysis on platforms like Medium, LinkedIn, Dev.to, or a personal blog.
 
-    3.Use visualizations to make the insights accessible and understandable for a broad audience.
+    3. Use Power BI to deploy visualizations to make the insights accessible and understandable for a broad audience.
 
 Actionable Recommendations:
 
