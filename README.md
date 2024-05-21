@@ -1,81 +1,127 @@
-<<<<<<< HEAD
-# TEAM-FIJI_LPI
+# Cross-Industry Standard Process for Data Mining (CRISP-DM) Methodology Application
 
-#Table of Contents
+It is the most common standardize data mining process. 
 
-#Objective
+It has six(6) phases;
+ 1. Business Understanding - it focuses on understanding the objectives and requirements of the project.
 
-The LPI Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
-=======
-# TEAM-FIJI_LP1
-The LP1 Project contains Data Analysis using CRISP-DM with visualization published on Power BI and an article explaining the process
->>>>>>> 60a435b81e6bddb1bed4cd2d08c52231a8650cdb
+ 2. Data understanding - This phase drives the focus to identify, collect, and analyze the data sets that can help you accomplish the project goals.
 
-# CRISP-DM (Cross-Industry Standard Process for Data Mining)
+ 3. Data preparation - This phase prepares the final datasets for modeling.
 
-The CRISP-DM framework is a widely adopted methodology for data mining projects, providing a structured approach to planning and executing data analysis tasks. It comprises six major phases, each with its own set of tasks and deliverables, ensuring a comprehensive and iterative process.
-It also includes 6 phases;
-1. Business Understanding
-2. Data Understanding: Explain
-3. Data Preparation 
-4. Modelling
-5. Evaluation
-6. Deployment.
+ 4. Modeling - To build and assess various models based on several differnt modeling techniques.
 
-# Business Understanding
+ 5. Evaluation - Evaluate results and review process and determine the next steps.
 
-# PROJECT SCENARIO/ DESCRIPTION
+ 6. Deployment - Deploying results can be as simple as generating a report or any requirement given.
 
-Your team is trying to venture into the Indian start-up ecosystem. As the data expert of the team, you are  to investigate the ecosystem and propose the best course of action using Three (3) Datasets from SQL SERVER, One Drive and Git repository. 
 
-# Data Understanding
-The datasets contains the start-ups' details, the funding amounts received, and the investors' information.
+## Project Title
+Indian Startup Ecosystem: Insights for Prospective Investors
 
-Column names and description:
 
-1. Company/Brand: Name of the company/start-up
-2. Founded: Year start-up was founded
-3. Sector: Sector of service
-4. What it does: Description about Company
-5. Founders: Founders of the Company
-6. Investor: Investors
-7. Amount($): Raised fund
-8. Stage: Round of funding reached
+# 1. Business Understanding
 
-# PROJECT TITLE
+## Objective
 
-The Indian Startup Ecosystem: Insights for Prospective Investors
+Your team aims to venture into the Indian start-up ecosystem. As the data expert, you need to investigate the ecosystem and propose the best course of action.
 
-# HYPOTHESIS STATEMENTS
+## Goal
 
-## Null Hypothesis (H0)
-Funding amounts are evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2021, and technology-driven startups do not receive higher average funding compared to other sectors.
+Analyze funding patterns in the Indian startup ecosystem from 2018 to 2021 to determine sectoral investment trends, funding stage distributions, geographical hotspots, and top investors.
 
-## Alternative Hypothesis (H1)
-Funding amounts are not evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2021, and technology-driven startups receive higher average funding compared to other sectors.
+# 2. Data Understanding
 
-# QUESTIONS
-1. Which sectors (Top 5) are receiving the most investment in the Indian startup ecosystem?
+Data Source: The datasets consists of separate CSV files for each year (2018-2021) detailing startup funding in India. The columns include:
 
-   We shall investigate which sectors stand out in terms of average funding received to identify potential investment hotspots.
+Company/Brand: Name of the company/start-up
+Founded: Year start-up was founded
+Sector: Sector of service
+What it does: Description of the company
+Founders: Founders of the company
+Investor: Investors
+Amount($): Raised fund
+Stage: Round of funding reached
 
-2. How do funding amounts vary across different startup sectors, yearly?
 
-   We will analyze year-over-year trends to determine if funding increased, decreased, or remained stable, providing insight into overall investment climate changes.
+# 3. Data Preparation
+Tasks;
 
-3. At what stage do businesses raise the most money across sectors?
+    1. Data Cleaning: Handle missing values, inconsistencies, and errors in the dataset.
 
-   We shall examine funding distribution across different stages (e.g., seed, early, growth) to understand where investors are most likely to commit significant capital.
+    2. Data Integration: Combine yearly data into a single dataset for comprehensive analysis.
 
-4. Which are the top 10 locations that received funding?
+    3. Data Transformation: Normalize and standardize data, especially for funding amounts.
 
-   We will analyze funding distribution across various cities to determine if certain locations are emerging as major startup hubs.
+    4. Feature Engineering: Create new features if necessary, such as total funding by sector or funding amount by city.
 
-5. Are there specific cities(headquarters) that have become hubs for certain industries or types of startups?
 
-   We will identify which cities(headquarters) are becoming specialized hubs for particular sectors or types of startups.
+# 4. Modeling
+ 
+ ## Hypotheses:
 
-6. Who are the top 3 investors in the top 5 sectors?
+    Null Hypothesis (H0): Funding amounts are evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2021, and technology-driven startups do not receive higher average funding compared to other sectors.
 
-   We will identify key investors and their sector preferences to gauge influential players and sector-specific investment trends.
+    Alternative Hypothesis (H1): Funding amounts are not evenly distributed across all sectors in the Indian startup ecosystem from 2018 to 2021, and technology-driven startups receive higher average funding compared to other sectors.
+
+## Approach:
+
+    1. Statistical Analysis: Conduct statistical tests to evaluate the distribution of funding amounts across sectors.
+
+    2. Trend Analysis: Perform trend analysis to observe funding variations over the years.
+
+    3. Correlation Analysis: Examine the relationship between funding stages and amounts.
+
+    4. Geographical Analysis: Identify major funding locations and analyze geographical trends.
+
+
+# 5. Evaluation
+
+Key Questions:
+
+    1. Which sectors (Top 5) are receiving the most investment in the Indian startup ecosystem?
+      We shall investigate which sectors stand out in terms of average funding received to identify potential investment hotspots.
+
+    2. How do funding amounts vary across different startup sectors, yearly?
+       We will analyze year-over-year trends to determine if funding increased, decreased, or remained stable, providing insight into overall investment climate changes.
+
+
+    3. At what stage do businesses raise the most money across sectors?
+       We shall examine funding distribution across different stages (e.g., seed, early, growth) to understand where investors are most likely to commit significant capital.
+
+    4. Which are the top 10 locations that received funding?
+       We will analyze funding distribution across various cities to determine if certain locations are emerging as major startup hubs.
+
+    5. Are there specific cities that have become hubs for certain industries or types of startups?
+        We will identify which cities(headquarters) are becoming specialized hubs for particular sectors or types of startups.
+
+    6. Who are the top 3 investors in the top 5 sectors?
+       We will identify key investors and their sector preferences to gauge influential players and sector-specific investment trends.
+
+Evaluation Metrics:
+
+    1. Descriptive Statistics: Summary statistics for funding amounts across sectors, stages, and years.
+    2. Visualization: Charts and graphs to illustrate key trends and patterns.
+    3. Hypothesis Testing: Results of statistical tests to confirm or reject the hypotheses.
+
+
+# 6. Deployment
+
+Sharing Insights:
+
+    1. Compile findings into a comprehensive blog post.
+
+    2. Share the analysis on platforms like Medium, LinkedIn, Dev.to, or a personal blog.
+
+    3.Use visualizations to make the insights accessible and understandable for a broad audience.
+
+Actionable Recommendations:
+
+    1. Identify high-potential sectors for investment.
+
+    2. Highlight key funding stages for strategic investments.
+
+    3. Recommend geographical locations for establishing a presence based on funding trends.
+
+    4. Suggest potential investors to engage with, based on their investment patterns.
 
