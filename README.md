@@ -43,7 +43,8 @@ b.python-dotenv (loading environment variables)
 
 ## Deployment 
 The project is available in two formats: a published report and a deployed Power BI Dashboard.
-To access the Report, use the following link: 
+
+To access the Report, use the following link: [Article Link](https://medium.com/@akuaakonnor43/indian-startup-ecosystem-insights-for-prospective-investors-a5409e0d6c0b)
 
 For the Deployed Dashboard, use the following link: [Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiMGE2NzNiMDAtMDFlZi00MDRjLTk1YTgtOTZiODRlMzA5YjcwIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
 
